@@ -1,5 +1,5 @@
 
-Model Implementation from
+Model Implementation based on\
 Zhao, Han, et al. “Convolutional-Recurrent Neural Networks for Speech Enhancement." 
 
 Modified for (RTX 3050Ti, Small Datasets, torch 2.3.0)
